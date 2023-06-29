@@ -1,3 +1,2 @@
 # Encryption-App
-Un program de criptare ce foloseste cifrul substitutiei, 
-o metoda prin care fiecare litera de la un anumit index este inlocuita cu un alt simbol dintr-un sir amestecat de la acelasi index
+This is an encryption program that uses the substitution cipher, a method in which a character from a string is replaced with another character that is located at the same position in a shuffled string.
